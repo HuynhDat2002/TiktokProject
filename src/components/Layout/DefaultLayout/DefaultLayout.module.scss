@@ -6,7 +6,8 @@
 }
 
 .container{
-    width:var(--default-layout-width);
+    position: relative;
+    width:100vw;
     display:flex;
 }
 
